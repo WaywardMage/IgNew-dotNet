@@ -1,6 +1,15 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
-
-# mstest test results
-TestResults
+#####################
+#### .NET Ignore ####
+#####################
+*.bak
+#**.ReSharper**
+**\_ReSharper.**
+StyleCop.Cache
+[Oo]bj/
+[Bb]in/
+*.suo
+*.user
+/TestResults
+*.vspscc
+*.vssscc
+Debug.log
