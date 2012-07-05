@@ -7,14 +7,14 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
+#region Using Directives
+
+using System.Configuration;
+
+#endregion
+
 namespace IgNew.Configuration.Proxies
 {
-    #region Using Directives
-
-    using System.Configuration;
-
-    #endregion
-
     /// <summary>
     /// Proxy interface for <see cref="ConfigurationManager"/>.
     /// </summary>

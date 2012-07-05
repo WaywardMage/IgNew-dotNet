@@ -6,14 +6,14 @@
 //   <see cref="Boolean" /> extension methods.
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
+#region Using Directives
+
+using System;
+
+#endregion
 
 namespace IgNew.Extensions
 {
-    #region Using Directives
-
-    using System;
-
-    #endregion
 
     /// <summary>
     /// <see cref="Boolean"/> extension methods.
